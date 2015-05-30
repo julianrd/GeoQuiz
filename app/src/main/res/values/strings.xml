@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="warning_test">Are you sure you want to do this?</string>
+    <string name="question_chaco">Resistencia es la capital del Chaco</string>
+    <string name="question_ocampo">Ocampo es una ciudad</string>
+    <string name="question_corrientes">Corrientes tiene su paye</string>
+    <string name="question_santafe">En Santa Fe no hay narcos</string>
+    <string name="question_iorio">Aguante Iorio</string>
+    <string name="action_settings">Settings</string>
+</resources>
